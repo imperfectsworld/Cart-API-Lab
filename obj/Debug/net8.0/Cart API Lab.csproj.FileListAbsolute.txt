@@ -1,0 +1,32 @@
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\bin\Debug\net8.0\appsettings.json
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\bin\Debug\net8.0\Cart API Lab.exe
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\bin\Debug\net8.0\Cart API Lab.deps.json
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\bin\Debug\net8.0\Cart API Lab.runtimeconfig.json
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\bin\Debug\net8.0\Cart API Lab.dll
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\bin\Debug\net8.0\Cart API Lab.pdb
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\Cart API Lab.csproj.AssemblyReference.cache
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\Cart API Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\Cart API Lab.AssemblyInfoInputs.cache
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\Cart API Lab.AssemblyInfo.cs
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\Cart API Lab.csproj.CoreCompileInputs.cache
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\Cart API Lab.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\Cart API Lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\staticwebassets\msbuild.Cart API Lab.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\staticwebassets\msbuild.build.Cart API Lab.props
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cart API Lab.props
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cart API Lab.props
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\scopedcss\bundle\Cart API Lab.styles.css
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\Cart API.7995615A.Up2Date
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\Cart API Lab.dll
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\refint\Cart API Lab.dll
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\Cart API Lab.pdb
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\Cart API Lab.genruntimeconfig.cache
+C:\Users\imper\source\repos\Cart API Lab\Cart API Lab\obj\Debug\net8.0\ref\Cart API Lab.dll
